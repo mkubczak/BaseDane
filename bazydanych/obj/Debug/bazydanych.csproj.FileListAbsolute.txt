@@ -1,0 +1,9 @@
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\bin\Debug\bazydanych.exe.config
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\obj\Debug\bazydanych.exe
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\obj\Debug\bazydanych.pdb
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\bin\Debug\bazydanych.exe
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\bin\Debug\bazydanych.pdb
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\obj\Debug\bazydanych.csprojResolveAssemblyReference.cache
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\obj\Debug\bazydanych.Form1.resources
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\obj\Debug\bazydanych.Properties.Resources.resources
+C:\Users\CarloQuero\Desktop\Baza_Danych\bazydanych\obj\Debug\bazydanych.csproj.GenerateResource.Cache
